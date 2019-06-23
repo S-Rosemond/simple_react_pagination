@@ -1,0 +1,7 @@
+.pad-space {
+	justify-content: center;
+}
+
+.page-spacing {
+	margin-right: calc(100% - 97%);
+}
